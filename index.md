@@ -2,7 +2,8 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## Bienvenidos Errantes
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+Aquí encontras guías, consejos y noticias para jugadores starter en [World of Warcraft](http://www.worldofwarcraft.com), espero que encuentren lo que estan buscando y los invito a aportar con su opinión, sugerencia o ideas en los comentarios de cada post, para poder ayudar a otros, y así, crecer como una comunidad dedicada a jugadores de nivel 20 con éste pequeño rincon de internet.
+
+Saludos y espero verlos in game.
