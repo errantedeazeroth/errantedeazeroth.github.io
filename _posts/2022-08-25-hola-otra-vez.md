@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hola otra vez"
+title:  "Hola a todos"
 date:   2022-08-25
 comments: true
 categories: Otros
